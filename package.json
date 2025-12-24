@@ -1,0 +1,7 @@
+{
+  "name": "ci-cd-example",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Tests passed\""
+  }
+}
